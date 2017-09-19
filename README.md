@@ -41,20 +41,22 @@ Terminal插件和vim插件没怎么试过，这里只收录两个有意思的插
 - [Snip](http://snip.qq.com/ "点击访问")：之前找mac上支持滚动截屏的软件，但没找到很好的能代替Windows平台利器FastStone的，这个Snip勉强符合滚动截屏的要求，但不能截部分
 - [Jietu](https://itunes.apple.com/cn/app/%E6%88%AA%E5%9B%BE-jietu-%E5%BF%AB%E9%80%9F%E6%A0%87%E6%B3%A8-%E4%BE%BF%E6%8D%B7%E5%88%86%E4%BA%AB%E7%9A%84%E6%88%AA%E5%B1%8F%E5%B7%A5%E5%85%B7/id1059334054?mt=12 "点击访问")：和snip一样同出于鹅厂，也有滚动截屏，功能多一点，但仍不能截部分，而且名字略low
 - [MindNode](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4 "点击访问")：很漂亮的一款思维导图，如果资金有限不想购买的客官可以看下[Xclient.info](http://xclient.info/s/mind-node-pro.html?_=f7d710b8833dbc76de5d7640956a0551 "点击访问")
-
 - [Expressions](https://itunes.apple.com/cn/app/expressions/id913158085?l=en&mt=12 "点击访问")：一款macOS平台的强大的正则表达式工具，测试正则表达式，多种主题，选中高亮等。如果资金有限不想购买的客官可以看下[Xclient.info](http://xclient.info/s/expressions.html?_=f7d710b8833dbc76de5d7640956a0551 "点击访问")
-
 - [WebTorrent](https://webtorrent.io/desktop/ "点击访问")：直接看磁链里的内容，无需等待下载
 - [Framer](https://framer.com/features/ "点击访问")：一个设计开发用的
 - [Tumult](http://tumult.com/hype/pro/ "点击访问")：也是一个设计工具，还没用过
+- [New File Menu](http://xclient.info/s/new-file-menu.html?_=8f2ea7453a409bd6674c05d22079f675 "点击访问")：finder扩展，右键新建文件，还可以自定义文件模板
+- [Leaf](https://itunes.apple.com/cn/app/leaf-rss-news-reader/id576338668?l=en&mt=12)：RSS News Reader, 订阅RSS源后，可以一站式阅读，之前不知道rss这东西，傻傻地一个个打开别人博客看文章
+  这里有一些收藏的博客RSS源:[CSDN博客推荐文章](http://blog.csdn.net/rss.html)、[阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)、[小胡子哥](http://www.barretlee.com/rss2.xml)、
+  [酷壳](https://coolshell.cn/feed)、[张鑫旭](http://www.zhangxinxu.com/wordpress/feed/)、[前端开发博客](http://caibaojian.com/feed)、[Harttle Land](http://harttle.com/feed.xml)、
+  [Web技术研究所](https://www.web-tinker.com/rss.xml)、[三水清](http://js8.in/atom.xml)、[刘彦玮](http://liuyanwei.jumppo.com/pages/rss.xml)、[ChokCoco](http://feed.cnblogs.com/blog/u/177636/rss)、
+  [小士刀](http://wdxtub.com/atom.xml)、[贾鹏辉](http://www.devio.org/feed.xml)、[颜海镜](http://yanhaijing.com/rss.xml)
 - [智图](https://zhitu.isux.us/ "点击访问")：图片压缩，方便快捷
 - [萤火虫Firefly](https://github.com/yinghuocho/firefly-proxy "点击访问")：一款翻墙软件，电脑手机都有
 - [蓝灯](https://github.com/getlantern/lantern "点击访问")：蓝灯VPN，速度挺快的，如果下载发行版的话有流量限制，建议去GitHub上照步骤自己编译程序，这样是没有流量限制的
 - [XX-Net](https://github.com/XX-net/XX-Net "点击访问")：很好用的翻墙工具，但配置会麻烦一点
 - [Dash](https://kapeli.com/dash "点击访问")：开发者必备，各种API文档，配合Alfred查询非常方便，如果资金有限不想购买的客官可以看下[Xclient.info](http://xclient.info/s/dash.html?_=f7d710b8833dbc76de5d7640956a0551 "点击访问")
-
 - [xScope](http://xscopeapp.com "点击访问")：设计开发辅助工具，有10个实用优秀的小工具，如屏幕镜像、屏幕标尺、放大镜、十字定位等等
-
 - [ohMyStar2](https://itunes.apple.com/cn/app/ohmystar2-best-way-to-organize-your-github-stars/id1218642292?l=en&mt=12 "点击访问")：强烈推荐的一个软件，可以管理GitHub账号的star，分类管理添加标签，还可以看热门项目，对于star几百个的人太有用了
 - [gitee](https://github.com/Nightonke/Gitee "点击访问")：显示GitHub账号信息，方便查看trending、项目信息等
 - [Slack](https://slack.com/ "点击访问")：开发人员的聊天app，主要是国外用户，加入不同的channel，了解不同的地域风格，与国外友人交流
