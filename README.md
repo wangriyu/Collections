@@ -50,7 +50,7 @@ Terminal插件和vim插件没怎么试过，这里只收录两个有意思的插
   这里有一些收藏的博客RSS源:[CSDN博客推荐文章](http://blog.csdn.net/rss.html)、[阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)、[小胡子哥](http://www.barretlee.com/rss2.xml)、
   [酷壳](https://coolshell.cn/feed)、[张鑫旭](http://www.zhangxinxu.com/wordpress/feed/)、[前端开发博客](http://caibaojian.com/feed)、[Harttle Land](http://harttle.com/feed.xml)、
   [Web技术研究所](https://www.web-tinker.com/rss.xml)、[三水清](http://js8.in/atom.xml)、[刘彦玮](http://liuyanwei.jumppo.com/pages/rss.xml)、[ChokCoco](http://feed.cnblogs.com/blog/u/177636/rss)、
-  [小士刀](http://wdxtub.com/atom.xml)、[贾鹏辉](http://www.devio.org/feed.xml)、[颜海镜](http://yanhaijing.com/rss.xml)
+  [小士刀](http://wdxtub.com/atom.xml)、[贾鹏辉](http://www.devio.org/feed.xml)、[颜海镜](http://yanhaijing.com/rss.xml)、[干货集中营](http://gank.io/feed)
 - [智图](https://zhitu.isux.us/ "点击访问")：图片压缩，方便快捷
 - [萤火虫Firefly](https://github.com/yinghuocho/firefly-proxy "点击访问")：一款翻墙软件，电脑手机都有
 - [蓝灯](https://github.com/getlantern/lantern "点击访问")：蓝灯VPN，速度挺快的，如果下载发行版的话有流量限制，建议去GitHub上照步骤自己编译程序，这样是没有流量限制的
@@ -71,6 +71,7 @@ Terminal插件和vim插件没怎么试过，这里只收录两个有意思的插
 - [蓝灯VPN]：要访问谷歌肯定要翻墙，蓝灯还是能用的，之前用的是green，但后来又被封了
 - [萤火虫VPN]：萤火虫也是可以用的
 - [知乎、简书、轻氧、掘金、开发者头条]：学习的好地方
+- [FastHub](https://play.google.com/store/apps/details?id=com.fastaccess.github)：FastHub for GitHub，集合了GitHub基本所需的所有功能
 - [最美应用](http://zuimeia.com/apps/?platform=2 "点击访问")：这是一个应用的名字，是最美团队出品的，收集了很多精品应用
 - [Flipboard](https://play.google.com/store/apps/details?id=flipboard.app&hl=zh_CN "点击访问")：需要翻墙，一些时事资讯。热门文章等
 - [ZUI Days](https://play.google.com/store/apps/details?id=com.zuiapps.suite.days&hl=zh_CN "点击访问")：一款很漂亮的记录时间和重要纪念日的应用
