@@ -22,11 +22,17 @@
 - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien "点击访问")：装逼利器，让GitHub profile页的提交记录立体化，跟gitee的效果差不多
 - [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd "点击访问")：极力推荐，显示仓库、文件大小，并提供单文件的下载
 - [Lisen1](http://listen1.github.io/listen1 "点击访问")：很棒的一个音乐插件，还有客户端版本
+- [Muzli](https://muz.li/ "点击访问")：集合了很多网站的最新更新，一站式阅读新闻和资讯，适合设计者和开发者
 
 ### Terminal插件
 
-Terminal插件和vim插件没怎么试过，这里只收录两个有意思的插件
+Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看看：[Vim Awesome](https://vimawesome.com/)
 
+这里有几个我用过的:
+
+- [Oh My ZSH](http://ohmyz.sh/)：方便个性化配置你的zsh
+  加个ys主题，换个字体，再加个背景图片，逼格立马上升了:
+  ![image](./images/terminal.png)
 - [VimGameCodeBreak](https://github.com/johngrib/vim-game-code-break "点击访问")：打开一个文本，开始一盘打方块游戏吧，注意需要vim8.0
 - [gtop](https://github.com/aksakalli/gtop "点击访问")：在终端显示电脑cpu、内存、进程信息
 
@@ -47,10 +53,10 @@ Terminal插件和vim插件没怎么试过，这里只收录两个有意思的插
 - [Tumult](http://tumult.com/hype/pro/ "点击访问")：也是一个设计工具，还没用过
 - [New File Menu](http://xclient.info/s/new-file-menu.html?_=8f2ea7453a409bd6674c05d22079f675 "点击访问")：finder扩展，右键新建文件，还可以自定义文件模板
 - [Leaf](https://itunes.apple.com/cn/app/leaf-rss-news-reader/id576338668?l=en&mt=12)：RSS News Reader, 订阅RSS源后，可以一站式阅读，之前不知道rss这东西，傻傻地一个个打开别人博客看文章
-  这里有一些收藏的博客RSS源:[CSDN博客推荐文章](http://blog.csdn.net/rss.html)、[阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)、[小胡子哥](http://www.barretlee.com/rss2.xml)、
+  这里有一些收藏的RSS源: [CSDN博客推荐文章](http://blog.csdn.net/rss.html)、[阮一峰的网络日志](http://www.ruanyifeng.com/blog/atom.xml)、[小胡子哥](http://www.barretlee.com/rss2.xml)、
   [酷壳](https://coolshell.cn/feed)、[张鑫旭](http://www.zhangxinxu.com/wordpress/feed/)、[前端开发博客](http://caibaojian.com/feed)、[Harttle Land](http://harttle.com/feed.xml)、
   [Web技术研究所](https://www.web-tinker.com/rss.xml)、[三水清](http://js8.in/atom.xml)、[刘彦玮](http://liuyanwei.jumppo.com/pages/rss.xml)、[ChokCoco](http://feed.cnblogs.com/blog/u/177636/rss)、
-  [小士刀](http://wdxtub.com/atom.xml)、[贾鹏辉](http://www.devio.org/feed.xml)、[颜海镜](http://yanhaijing.com/rss.xml)、[干货集中营](http://gank.io/feed)
+  [小士刀](http://wdxtub.com/atom.xml)、[贾鹏辉](http://www.devio.org/feed.xml)、[颜海镜](http://yanhaijing.com/rss.xml)、[干货集中营](http://gank.io/feed)、[奇舞周刊](https://weekly.75team.com/rss.php)、[码农周刊](http://blog.manong.io/rss.xml)
 - [智图](https://zhitu.isux.us/ "点击访问")：图片压缩，方便快捷
 - [萤火虫Firefly](https://github.com/yinghuocho/firefly-proxy "点击访问")：一款翻墙软件，电脑手机都有
 - [蓝灯](https://github.com/getlantern/lantern "点击访问")：蓝灯VPN，速度挺快的，如果下载发行版的话有流量限制，建议去GitHub上照步骤自己编译程序，这样是没有流量限制的
@@ -61,7 +67,12 @@ Terminal插件和vim插件没怎么试过，这里只收录两个有意思的插
 - [gitee](https://github.com/Nightonke/Gitee "点击访问")：显示GitHub账号信息，方便查看trending、项目信息等
 - [Slack](https://slack.com/ "点击访问")：开发人员的聊天app，主要是国外用户，加入不同的channel，了解不同的地域风格，与国外友人交流
 - [Gitter](http://gitter.im "点击访问")：也是一款开发人员地聊天app，集合各种语言和框架，与其相关的还有一个GitLab
-- [Alfred](https://www.alfredapp.com/ "点击访问")：如果上面的都是神器，那这个就是超神器，我会详细介绍一下它的使用，强烈推荐
+- [Alfred](https://www.alfredapp.com/ "点击访问")：如果上面的都是神器，那这个就是超神器，我会详细介绍一下它的使用，强烈推荐。附上[使用教程](http://wellsnake.com/jekyll/update/2014/06/15/001/ "点击访问")。
+  建议关掉mac自带的Spotlight, 将Alfred快捷键设置成cmd + space(原Spotlight快捷键)；
+  把常用的网站，特别是搜索类的放到websearch里：
+  <img alt="image" src="./images/websearch.png" width="600px" height="400px" />
+  把浏览器书签导入Safari，可以用Alfred搜索打开；快捷键打开终端；查询文档；搜索打开文件；记录Clipboard历史等等...
+  当然最强大的功能还是workflow：![image](./images/workflow.png)
 
 ## 应用篇
 
