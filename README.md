@@ -25,6 +25,7 @@
 - [Wide Github](https://chrome.google.com/webstore/detail/wide-github/kaalofacklcidaampbokdplbklpeldpj "点击访问")：加宽GitHub的页面内容，让你的GitHub网页显示更舒服
 - [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack "点击访问")：相当于一个IDE，直接查看GitHub上的仓库
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US "点击访问")：GitHub插件，极力推荐，在仓库左上角显示目录，直接点击文件跳转，不用一级级打开网页上的repo
+- [Insight.io for Github](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh "点击访问")：功能和Octotree类似，比Octotree略微高级点
 - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien "点击访问")：装逼利器，让GitHub profile页的提交记录立体化，跟gitee的效果差不多
 - [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd "点击访问")：极力推荐，显示仓库、文件大小，并提供单文件的下载
 - [Lisen1](http://listen1.github.io/listen1 "点击访问")：很棒的一个音乐插件，还有客户端版本
@@ -152,7 +153,14 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [众成翻译](http://www.zcfy.cc/translate/discovery)：有很多翻译的和未翻译的文章，值得翻一翻看一看
 - [果壳-科学人](http://www.guokr.com/scientific/)：挺多有趣的科学文章
 - [Airbnb](https://zh.airbnb.com/)
+- [Medium](https://medium.com/)：各种文章
 - [Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/?hl=zh-CN&utm_source=PSI&utm_medium=incoming-link&utm_campaign=PSI)：谷歌站点分析，网站速度性能评分
+- [ARKie](http://www.arkie.cn/)：自动帮你设计海报，很好用
+- [IconFont](http://iconfont.cn/)：阿里巴巴矢量图标库
+- [PPT遥控器](http://ppt.baidu.com/)：用手机当ppt遥控器
+- [Wordart](https://wordart.com/)：在线生成文字云
+- [在线生成短链](https://goo.gl/#)：谷歌在线生成短链工具
+- [Gfycat](https://gfycat.com/)：各种动图
 
 ## star篇
 
