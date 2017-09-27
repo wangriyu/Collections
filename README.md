@@ -18,6 +18,7 @@
 - [Code Cola](https://chrome.google.com/webstore/detail/code-cola/lomkpheldlbkkfiifcbfifipaofnmnkn "点击访问")：一个可视化编辑在线页面css样式的chrome插件，相当于控制台修改的效果，但方便很多
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl "点击访问")：可以滚动截取整个网页
 - Google Translate：谷歌翻译，点击翻译
+- [简阅](http://ksria.com/simpread/)：巨好用的插件，相当于添加了阅读模式，界面很漂亮，设置很全，功能也挺完整
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn "点击访问")：网页标尺，可以方便测量各个元素的尺寸
 - [Web Developer](http://chrispederick.com/work/web-developer/ "点击访问")：前端必备，功能强大，可以设置网页上几乎所有东西
 - [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=chrome-ntp-icon "点击访问")：也是前端必备，包括json美化、页面测试、编解码、代码美化压缩等等
@@ -30,6 +31,7 @@
 - [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd "点击访问")：极力推荐，显示仓库、文件大小，并提供单文件的下载
 - [Lisen1](http://listen1.github.io/listen1 "点击访问")：很棒的一个音乐插件，还有客户端版本
 - [Muzli](https://muz.li/ "点击访问")：集合了很多网站的最新更新，一站式阅读新闻和资讯，适合设计者和开发者
+- [stylish](https://userstyles.org/)：可以自定义浏览器主题样式，也可以安装别人的
 
 ### Terminal插件
 
@@ -174,6 +176,10 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [码农头条](http://hao.caibaojian.com/)
 - [码农周刊](http://weekly.manong.io/issues/)
 - [CSS Animate](http://cssanimate.com/)：在线生成css动画
+- [外链工厂](http://www.wailian.work/)：无限外链，批量上传，而且可以生成各种嵌入代码
+- [AlgorithmVisualizer](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic)：演示算法的网页，做的很棒
+- [CodeWar](https://www.codewars.com)：很适合练习编程，包含各种语言，而且可以查看别人对同一问题的不同解法
+- [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3/)：用图形化的教程教你使用一些基础的git命令
 
 ## star篇
 
@@ -193,6 +199,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
+  - [Makefile](#makefile)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -239,10 +246,17 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## Dart 
 
+- [flutter_sprites](https://github.com/raju-bitter/flutter_sprites) - 
+- [lottie-flutter](https://github.com/fabiomsr/lottie-flutter) - 
+- [flutter_markdown](https://github.com/flutter/flutter_markdown) - A markdown renderer for Flutter.
+- [fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter.
+- [Flutter-StepByStep](https://github.com/fabiomsr/Flutter-StepByStep) - A example of an Android / iOS app written using Google Flutter with MVP architecture
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
 ## Go 
 
+- [build-your-own-docker](https://github.com/xf0rk/build-your-own-docker) - 自己动手写Docker
+- [mydocker](https://github.com/xianlubird/mydocker) - &lt;&lt;自己动手写docker&gt;&gt; 源码
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
@@ -316,6 +330,8 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## JavaScript 
 
+- [simptab](https://github.com/Kenshin/simptab) - 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
+- [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
 - [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
@@ -336,7 +352,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [front-end-collect](https://github.com/foru17/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer
 - [redocx](https://github.com/nitin42/redocx) - 📄  Create word documents with React
-- [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (682 bytes)
+- [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (653 bytes)
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2
 - [blog](https://github.com/slashhuang/blog) - Front-end  tech thoughts and share-ppt
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
@@ -362,7 +378,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [echarts-liquidfill](https://github.com/ecomfe/echarts-liquidfill) - ECharts Liquid Fill Chart
 - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - A best react text editor component ( mordern react text editor includes media support such as texts, images, videos, audios, links etc. ), development based on Draft-Js and Ant-design, good support html, markdown, draft-raw mode.      一款基于 draft-Js 和 ant-design 实现的 react 富文本编辑器组件，支持文本、图片、视频、音频、链接等元素插入，同时支持HTML、markdown、draft Raw格式。
+- [react-lz-editor](https://github.com/leejaen/react-lz-editor) - A multilingual react rich-text editor component includes media support such as texts, images, videos, audios, links etc. Development based on Draft-Js and Ant-design, good support html, markdown, draft-raw mode. 一款基于 draft-Js 和 ant-design 实现的 react 富文本编辑器组件，支持文本、图片、视频、音频、链接等元素插入，同时支持HTML、markdown、draft Raw格式。
 - [Hommily-Editor](https://github.com/suyulin/Hommily-Editor) - React rich text editor built using Draft.js
 - [react-markdown](https://github.com/leozdgao/react-markdown) - text editor for markdown in react (不再维护)
 - [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
@@ -462,8 +478,13 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 - [android-topeka](https://github.com/googlesamples/android-topeka) - A fun to play quiz that showcases material design on Android
 
+## Makefile 
+
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+
 ## Objective-C 
 
+- [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - a demo developed using weex
 - [CRNumberFadedAnimation](https://github.com/CRAnimation/CRNumberFadedAnimation) - CRNumberFaded
 - [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - Folding Tab Bar and Tab Bar Controller
 - [react-native-native-module](https://github.com/Xing-He/react-native-native-module) - react-native 调用ios / android (Toast) 原生模块 学习笔记
@@ -471,10 +492,21 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## Others 
 
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - :smiley_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you, and hoping slowly improve, if you like you can star
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: Awesome - A curated contents of amazing CSS Ever :)
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - A curated list of awesome Flutter frameworks, libraries, and softwares
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [tech-community-slacks](https://github.com/ladyleet/tech-community-slacks) - Here is a list of all the tech community slacks!
-- [fullstack-webdev-path](https://github.com/shovanch/fullstack-webdev-path) - 📚 A learning path for Full-stack web development
+- [fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path) - 📚 A learning path for Full-stack web development
 - [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 a list of applications, alfred workflows and various tools that make my macOS experience even more amazing
@@ -536,6 +568,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## TypeScript 
 
+- [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with Deeplearn.JS library
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
@@ -556,7 +589,6 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
-
 
 ## License
 
