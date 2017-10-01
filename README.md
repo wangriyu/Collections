@@ -31,7 +31,9 @@
 - [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd "点击访问")：极力推荐，显示仓库、文件大小，并提供单文件的下载
 - [Lisen1](http://listen1.github.io/listen1 "点击访问")：很棒的一个音乐插件，还有客户端版本
 - [Muzli](https://muz.li/ "点击访问")：集合了很多网站的最新更新，一站式阅读新闻和资讯，适合设计者和开发者
-- [stylish](https://userstyles.org/)：可以自定义浏览器主题样式，也可以安装别人的
+- [feedly](https://chrome.google.com/webstore/detail/feedly/hipbfijinpcgfogaopmgehiegacbhmob?utm_source=chrome-ntp-icon "点击访问")：一个webapp，可以收藏网址，主要用于RSS和博客订阅
+- [stylish](https://userstyles.org/ "点击访问")：可以自定义浏览器主题样式，也可以安装别人的
+- [AddToAny: Share Anywhere](https://chrome.google.com/webstore/detail/addtoany-share-anywhere/ffpgijchhhkhnokafdeklpllijgnbche "点击访问")：一个分享插件
 
 ### Terminal插件
 
@@ -69,6 +71,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
   [酷壳](https://coolshell.cn/feed)、[张鑫旭](http://www.zhangxinxu.com/wordpress/feed/)、[前端开发博客](http://caibaojian.com/feed)、[Harttle Land](http://harttle.com/feed.xml)、[InfoQ](http://www.infoq.com/cn/feed)、
   [Web技术研究所](https://www.web-tinker.com/rss.xml)、[三水清](http://js8.in/atom.xml)、[刘彦玮](http://liuyanwei.jumppo.com/pages/rss.xml)、[ChokCoco](http://feed.cnblogs.com/blog/u/177636/rss)、
   [小士刀](http://wdxtub.com/atom.xml)、[贾鹏辉](http://www.devio.org/feed.xml)、[颜海镜](http://yanhaijing.com/rss.xml)、[干货集中营](http://gank.io/feed)、[奇舞周刊](https://weekly.75team.com/rss.php)、[码农周刊](http://blog.manong.io/rss.xml)、[InfoQ](http://www.infoq.com/cn/feed)、[OneTwo](http://onetwo.ren//feed.xml)
+- [Bootstrap Studio](https://bootstrapstudio.io/ "点击访问")：这个软件可牛逼了，建议看下官网的介绍视频，这个软件可以让你以直接拖动组件的方式完成一个网页，感觉跟C#类似，用来做基础布局可以节约大量时间
 - [智图](https://zhitu.isux.us/ "点击访问")：图片压缩，方便快捷
 - [萤火虫Firefly](https://github.com/yinghuocho/firefly-proxy "点击访问")：一款翻墙软件，电脑手机都有
 - [蓝灯](https://github.com/getlantern/lantern "点击访问")：蓝灯VPN，速度挺快的，如果下载发行版的话有流量限制，建议去GitHub上照步骤自己编译程序，这样是没有流量限制的
@@ -151,35 +154,46 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [SeeSeed](https://www.seeseed.com/ "点击访问")：设计与灵感，适合设计师用
 - [百度•图说](http://tushuo.baidu.com/wave/index#/gallery "点击访问")：在线创建图表
 - [Echart](http://gallery.echartsjs.com/explore.html#sort=rank~timeframe=all~author=all "点击访问")：漂亮又强大的图表库
-- [CSSWinner](http://www.csswinner.com/blog/)：CSS Award Gallery for Website Design Inspiration
-- [众成翻译](http://www.zcfy.cc/translate/discovery)：有很多翻译的和未翻译的文章，值得翻一翻看一看
-- [果壳-科学人](http://www.guokr.com/scientific/)：挺多有趣的科学文章
-- [Airbnb](https://zh.airbnb.com/)
-- [Medium](https://medium.com/)：各种文章
-- [Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/?hl=zh-CN&utm_source=PSI&utm_medium=incoming-link&utm_campaign=PSI)：谷歌站点分析，网站速度性能评分
-- [ARKie](http://www.arkie.cn/)：自动帮你设计海报，很好用
-- [IconFont](http://iconfont.cn/)：阿里巴巴矢量图标库
-- [PPT遥控器](http://ppt.baidu.com/)：用手机当ppt遥控器
-- [Wordart](https://wordart.com/)：在线生成文字云
-- [在线生成短链](https://goo.gl/#)：谷歌在线生成短链工具
-- [Gfycat](https://gfycat.com/)：各种动图
-- [Mockups](https://mockupsjar.com/)：三步生成逼真的网站、手机的设计稿
-- [ColorSpace](https://mycolor.space/gradient)：生成渐进色背景
-- [frontend.directory](https://frontend.directory/p)：罗列了各种前端的资源
-- [前端面试题](http://hawx1993.github.io/Front-end-Interview-Questions/#/?id=interview-quesetions)：长期更新的，内容挺全
-- [FKS](http://html5ify.com/fks/)：Frontend Knowledge Structure，前端知识体系汇总
-- [CSS3PIE](http://css3pie.com/)：PIE使IE6~9可以支持大部分CSS3的样式
-- [img2css](https://javier.xyz/img2css/)：将图片转成css，适合一些小图标，大图就不要尝试了
-- [Trello](https://trello.com/#)：看板，GitHub上有一个类似的项目叫[wekan](https://wekan.indie.host/)
-- [BootCDN](http://www.bootcdn.cn/)：找一些库的cdn很方便
-- [云真机](http://wetest.qq.com/product/cloudphone)：腾讯推出的服务，可以线上测试各种手机
-- [码农头条](http://hao.caibaojian.com/)
-- [码农周刊](http://weekly.manong.io/issues/)
-- [CSS Animate](http://cssanimate.com/)：在线生成css动画
-- [外链工厂](http://www.wailian.work/)：无限外链，批量上传，而且可以生成各种嵌入代码
-- [AlgorithmVisualizer](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic)：演示算法的网页，做的很棒
-- [CodeWar](https://www.codewars.com)：很适合练习编程，包含各种语言，而且可以查看别人对同一问题的不同解法
-- [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3/)：用图形化的教程教你使用一些基础的git命令
+- [CSSWinner](http://www.csswinner.com/blog/ "点击访问")：CSS Award Gallery for Website Design Inspiration
+- [众成翻译](http://www.zcfy.cc/translate/discovery "点击访问")：有很多翻译的和未翻译的文章，值得翻一翻看一看
+- [果壳-科学人](http://www.guokr.com/scientific/ "点击访问")：挺多有趣的科学文章
+- [Airbnb](https://zh.airbnb.com/ "点击访问")
+- [Medium](https://medium.com/ "点击访问")：各种文章，谷歌商店上还能找到app
+- [Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/?hl=zh-CN&utm_source=PSI&utm_medium=incoming-link&utm_campaign=PSI "点击访问")：谷歌站点分析，网站速度性能评分
+- [ARKie](http://www.arkie.cn/ "点击访问")：自动帮你设计海报，很好用
+- [IconFont](http://iconfont.cn/ "点击访问")：阿里巴巴矢量图标库
+- [PPT遥控器](http://ppt.baidu.com/ "点击访问")：用手机当ppt遥控器
+- [Wordart](https://wordart.com/ "点击访问")：在线生成文字云
+- [在线生成短链](https://goo.gl/# "点击访问")：谷歌在线生成短链工具
+- [Gfycat](https://gfycat.com/ "点击访问")：各种动图
+- [Mockups](https://mockupsjar.com/ "点击访问")：三步生成逼真的网站、手机的设计稿
+- [ColorSpace](https://mycolor.space/gradient "点击访问")：生成渐进色背景
+- [frontend.directory](https://frontend.directory/p "点击访问")：罗列了各种前端的资源
+- [前端面试题](http://hawx1993.github.io/Front-end-Interview-Questions/#/?id=interview-quesetions "点击访问")：长期更新的，内容挺全
+- [FKS](http://html5ify.com/fks/ "点击访问")：Frontend Knowledge Structure，前端知识体系汇总
+- [CSS3PIE](http://css3pie.com/ "点击访问")：PIE使IE6~9可以支持大部分CSS3的样式
+- [img2css](https://javier.xyz/img2css/ "点击访问")：将图片转成css，适合一些小图标，大图就不要尝试了
+- [Trello](https://trello.com/# "点击访问")：看板，GitHub上有一个类似的项目叫[wekan](https://wekan.indie.host/ "点击访问")
+- [BootCDN](http://www.bootcdn.cn/ "点击访问")：找一些库的cdn很方便
+- [云真机](http://wetest.qq.com/product/cloudphone "点击访问")：腾讯推出的服务，可以线上测试各种手机
+- [码农头条](http://hao.caibaojian.com/ "点击访问")
+- [码农周刊](http://weekly.manong.io/issues/ "点击访问")
+- [CSS Animate](http://cssanimate.com/ "点击访问")：在线生成css动画
+- [外链工厂](http://www.wailian.work/ "点击访问")：无限外链，批量上传，而且可以生成各种嵌入代码
+- [AlgorithmVisualizer](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic "点击访问")：演示算法的网页，做的很棒
+- [CodeWar](https://www.codewars.com "点击访问")：很适合练习编程，包含各种语言，而且可以查看别人对同一问题的不同解法
+- [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3/ "点击访问")：用图形化的教程教你使用一些基础的git命令
+- [伯乐在线](http://www.jobbole.com/ "点击访问")
+- [CreativeTim](https://www.creative-tim.com/ "点击访问")：很多网站和管理后台的模板
+- [Carbon](https://carbon.now.sh/ "点击访问")：生成一张代码高亮图片，很漂亮，适合插入到网站和博客中
+- [GitHub Resume](http://resume.github.io/ "点击访问")：输入github名，自动生成一个简单的简历页
+- [js coach](https://js.coach/ "点击访问")：js开源库目录
+- [前端周刊](http://www.feweekly.com/issues "点击访问")
+- [EasyMock](https://www.easy-mock.com/login "点击访问")：更方便地模拟数据
+- [MaterialIcon](https://material.io/icons/ "点击访问"):Material Design Icon
+- [tutorialzine](https://tutorialzine.com/articles "点击访问")：前端文章
+- [W3CPlus](http://www.w3cplus.com/ "点击访问")
+- [HelloWeba](https://www.helloweba.com/ "点击访问")：又是前端文章
 
 ## star篇
 
@@ -222,6 +236,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## C++ 
 
+- [Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [brpc](https://github.com/brpc/brpc) - Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.
 - [butteraugli](https://github.com/google/butteraugli) - butteraugli estimates the psychovisual difference between two images
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
@@ -231,6 +246,8 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## CSS 
 
+- [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
+- [light-bootstrap-dashboard-react](https://github.com/creativetimofficial/light-bootstrap-dashboard-react) - React version of Light Bootstrap Dashboard
 - [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage) - 专注于移动端的fullPage.js
 - [primer-css](https://github.com/primer/primer-css) - The CSS framework that powers GitHub's front-end design.
 - [devices.css](https://github.com/picturepan2/devices.css) - Modern devices in pure CSS
@@ -290,7 +307,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
-- [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 下拉刷新、上拉加载、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+- [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 - [BilibiliSearchView](https://github.com/didixyy/BilibiliSearchView) - 
 - [KotlinMix](https://github.com/donnfelker/KotlinMix) - Example code for the Kotlin and Anko Article
 - [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
@@ -330,6 +347,15 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## JavaScript 
 
+- [electrode-native](https://github.com/electrode-io/electrode-native) - Electrode Native Platform
+- [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
+- [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal:
+- [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
+- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+- [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
+- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints !
+- [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan
+- [BigInteger.js](https://github.com/peterolson/BigInteger.js) - An arbitrary length integer library for Javascript
 - [simptab](https://github.com/Kenshin/simptab) - 简 Tab ( SimpTab ) - 极简的 Chrome 新标签页扩展，望你每次打开都有好心情。
 - [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
 - [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
@@ -484,7 +510,8 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## Objective-C 
 
-- [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - a demo developed using weex
+- [matcha](https://github.com/gomatcha/matcha) - A framework for building iOS and Android apps in Go
+- [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - a demo developed using weex/weex高仿网易严选App
 - [CRNumberFadedAnimation](https://github.com/CRAnimation/CRNumberFadedAnimation) - CRNumberFaded
 - [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - Folding Tab Bar and Tab Bar Controller
 - [react-native-native-module](https://github.com/Xing-He/react-native-native-module) - react-native 调用ios / android (Toast) 原生模块 学习笔记
@@ -492,6 +519,11 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## Others 
 
+- [API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+- [vanilla-js-dom](https://github.com/Haeresis/vanilla-js-dom) - Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
+- [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList) - 
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - :smiley_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you, and hoping slowly improve, if you like you can star
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
@@ -521,7 +553,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 - [dva-knowledgemap](https://github.com/dvajs/dva-knowledgemap) - Knowledge map for dva.
 - [Perfect_IM_SNS](https://github.com/CameloeAnthony/Perfect_IM_SNS) - 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
 - [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
-- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects 微信公众号: codekk
+- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  Dev Tools Pro:
 - [awesome-react-native](https://github.com/wabg/awesome-react-native) - React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全。
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [learning-react-native](https://github.com/Kennytian/learning-react-native) - React Native Learning Notebook
@@ -541,6 +573,9 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## Python 
 
+- [Dshell](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework.
+- [gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
@@ -568,6 +603,7 @@ Terminal插件和vim插件没怎么试过.感兴趣的可以到这个网站看�
 
 ## TypeScript 
 
+- [react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React higher-order component for Apollo Client
 - [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with Deeplearn.JS library
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
